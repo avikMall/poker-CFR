@@ -1,6 +1,6 @@
 # poker-CFR
 
-Counterfactual Regret Minimization for Simplified Poker game and rock paper scissors.
+Counterfactual Regret Minimization for Simplified Poker game and rock paper scissors - Avik Malladi.
 
 This is a personal project created to find an optimal strategy for the simplified poker game - Kuhn poker. The chosen simplification of poker is played with 2 players and uses a regret minimization algorithm. This algorithm is initally implemented for rock paper scissors game in the file rps.py
 
